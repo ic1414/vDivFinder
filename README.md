@@ -1,2 +1,2 @@
-# rDividerSearch
+# vDivFinder
 voltage divider search
